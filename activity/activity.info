@@ -1,0 +1,8 @@
+[Activity]
+name = Pacman
+bundle_id = vu.lux.olpc.Pacman
+exec = sugar-activity activity.PacmanActivity
+icon = activity-pacman
+activity_version = 3
+show_launcher = yes
+summary = The classic Pacman game
